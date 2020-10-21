@@ -6,5 +6,11 @@
 *.bilibili.com +direct
 *.canc.com.cn +direct
 *.aibooks.cc +direct
+*.apple.com.cn +direct
+*.mojidict.com +direct
+*.163.com +direct
+*.zhihu.com +direct
+*.csdn.net +direct
+*.v2ex.com +direct
 
 * +proxy
