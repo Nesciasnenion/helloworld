@@ -1,5 +1,5 @@
 [SwitchyOmega Conditions]
-@with result
+#本列表为简单的白名单列表供SwitchyOmega使用#
 
 *.ithome.com
 *.douban.com
