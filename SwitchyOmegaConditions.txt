@@ -1,0 +1,10 @@
+[SwitchyOmega Conditions]
+@with result
+
+*.ithome.com +direct
+*.douban.com +direct
+*.bilibili.com +direct
+*.canc.com.cn +direct
+*.aibooks.cc +direct
+
+* +proxy
