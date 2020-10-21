@@ -1,16 +1,19 @@
 [SwitchyOmega Conditions]
 @with result
 
-*.ithome.com +direct
-*.douban.com +direct
-*.bilibili.com +direct
-*.canc.com.cn +direct
-*.aibooks.cc +direct
-*.apple.com.cn +direct
-*.mojidict.com +direct
-*.163.com +direct
-*.zhihu.com +direct
-*.csdn.net +direct
-*.v2ex.com +direct
-
-* +proxy
+*.ithome.com
+*.douban.com
+*.bilibili.com
+*.canc.com.cn
+*.aibooks.cc
+*.apple.com.cn
+*.mojidict.com
+*.163.com
+*.zhihu.com
+*.csdn.net
+*.v2ex.com
+*.tmall.com
+*.jd.com
+*.taobao.com
+*.baidu.com
+*.smzdm.com
