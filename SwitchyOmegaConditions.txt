@@ -40,3 +40,6 @@
 *.ipad.ly
 *.clover.ly
 *.ly
+*.alipay.com
+*.guoguo-app.com
+*.cainiao.com
