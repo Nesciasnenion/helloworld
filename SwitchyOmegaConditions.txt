@@ -34,3 +34,9 @@
 *.cn
 *.z.cn
 *.iqiyi.com
+*.wechat.com
+*.coolapk.com
+*.idai.ly
+*.ipad.ly
+*.clover.ly
+*.ly
