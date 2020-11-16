@@ -33,3 +33,4 @@
 *.sina.com.cn
 *.cn
 *.z.cn
+*.iqiyi.com
