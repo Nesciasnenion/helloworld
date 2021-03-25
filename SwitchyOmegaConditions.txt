@@ -36,3 +36,4 @@
 *.znzmo.com
 *.bdstatic.com
 *.icloud.com
+*.sspai.com
