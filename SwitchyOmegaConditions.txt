@@ -9,7 +9,6 @@
 *.163.com
 *.zhihu.com
 *.csdn.net
-*.v2ex.com
 *.tmall.com
 *.jd.com
 *.taobao.com
@@ -37,3 +36,13 @@
 *.bdstatic.com
 *.icloud.com
 *.sspai.com
+*.bdstatic.com
+*.baidupcs.com
+*.znzmo.com
+*.jsdelivr.net
+*.bilivideo.com
+*.xiaomi.com
+*.ruanmei.com
+*.bcebos.com
+*.alicdn.com
+*.aliyundrive.com
