@@ -46,3 +46,4 @@
 *.bcebos.com
 *.alicdn.com
 *.aliyundrive.com
+*.huatu.com
