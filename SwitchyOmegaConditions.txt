@@ -89,7 +89,6 @@
 *.msi.cn
 *.mwr.gov.cn
 *.nhc.gov.cn
-*.nnnn.uk
 *.oray.com
 *.orayimg.com
 *.people.com.cn
