@@ -5,11 +5,9 @@ https://tv.iill.top/youtube/@TVBSNEWS01
 https://tv.iill.top/youtube/@TTV_NEWS
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@setn&youtube&logo" group-title="新闻",三立新聞
 https://tv.iill.top/youtube/@setn
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@頭條開講HeadlinesTalk&youtube&logo" group-title="新闻",頭條開講
-https://tv.iill.top/youtube/@頭條開講HeadlinesTalk
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@中天電視CtiTv&youtube&logo" group-title="新闻",中天電視
+#EXTINF:-1 tvg-logo="https://github.com/vircloud/TVLogo/blob/main/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png?raw=true" group-title="新闻",中天電視
 https://tv.iill.top/youtube/@中天電視CtiTv
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@ChinaTimes&youtube&logo" group-title="新闻",中時新聞網
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/China_Times_digital_newspaper_logo.svg/375px-China_Times_digital_newspaper_logo.svg.png" group-title="新闻",中時新聞網
 https://tv.iill.top/youtube/@ChinaTimes
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/newsebc&youtube&logo" group-title="新闻",東森新聞
 https://tv.iill.top/youtube/newsebc
@@ -17,19 +15,17 @@ https://tv.iill.top/youtube/newsebc
 https://tv.iill.top/youtube/@globalnewstw
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/PNNPTS&youtube&logo" group-title="新闻",公視新聞
 https://tv.iill.top/youtube/PNNPTS
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@phoenixtvglobal&youtube&logo" group-title="新闻",鳳凰衛視
+#EXTINF:-1 tvg-logo="https://github.com/vircloud/TVLogo/blob/main/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E8%B5%84%E8%AE%AF%E5%8F%B0.png?raw=true" group-title="新闻",鳳凰衛視
 https://tv.iill.top/youtube/@phoenixtvglobal
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@8tvmandarinnews&youtube&logo" group-title="新闻",八度空间华语新闻
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/330px-Logo_8TV_Malaysia.png" group-title="新闻",八度空间华语新闻
 https://tv.iill.top/youtube/@8tvmandarinnews
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@ntv_news&youtube&logo" group-title="新闻",日テレ·日本電視NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/270px-Nippon_TV_logo_2014.svg.png" group-title="新闻",日テレ·日本電視NEWS
 https://tv.iill.top/youtube/@ntv_news
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@ANNnewsCH&youtube&logo" group-title="新闻",ANN·全日本新聞網NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/330px-ANN_logo.svg.png" group-title="新闻",ANN·全日本新聞網NEWS
 https://tv.iill.top/youtube/@ANNnewsCH
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@NHKWORLDJAPAN&youtube&logo" group-title="新闻",NHK全球新聞NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/500px-NHK_logo_2020.svg.png" group-title="新闻",NHK全球新聞NEWS
 https://tv.iill.top/youtube/@NHKWORLDJAPAN
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@CNN&youtube&logo" group-title="新闻",CNN
 https://tv.iill.top/youtube/@CNN
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@channelnewsasia&youtube&logo" group-title="新闻",CNA
 https://tv.iill.top/youtube/@channelnewsasia
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@unitednations&youtube&logo" group-title="新闻",United Nations
-https://tv.iill.top/youtube/@unitednations
