@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@TVBSNEWS01&youtube&logo" group-title="新闻",TVBS新聞
+https://tv.iill.top/youtube/@TVBSNEWS01
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@TTV_NEWS&youtube&logo" group-title="新闻",臺視新聞
+https://tv.iill.top/youtube/@TTV_NEWS
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@setn&youtube&logo" group-title="新闻",三立新聞
+https://tv.iill.top/youtube/@setn
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@頭條開講HeadlinesTalk&youtube&logo" group-title="新闻",頭條開講
+https://tv.iill.top/youtube/@頭條開講HeadlinesTalk
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@中天電視CtiTv&youtube&logo" group-title="新闻",中天電視
+https://tv.iill.top/youtube/@中天電視CtiTv
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@ChinaTimes&youtube&logo" group-title="新闻",中時新聞網
+https://tv.iill.top/youtube/@ChinaTimes
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/newsebc&youtube&logo" group-title="新闻",東森新聞
+https://tv.iill.top/youtube/newsebc
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@globalnewstw&youtube&logo" group-title="新闻",寰宇新聞
+https://tv.iill.top/youtube/@globalnewstw
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/PNNPTS&youtube&logo" group-title="新闻",公視新聞
+https://tv.iill.top/youtube/PNNPTS
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@phoenixtvglobal&youtube&logo" group-title="新闻",鳳凰衛視
+https://tv.iill.top/youtube/@phoenixtvglobal
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@8tvmandarinnews&youtube&logo" group-title="新闻",八度空间华语新闻
+https://tv.iill.top/youtube/@8tvmandarinnews
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@ntv_news&youtube&logo" group-title="新闻",日テレ·日本電視NEWS
+https://tv.iill.top/youtube/@ntv_news
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@ANNnewsCH&youtube&logo" group-title="新闻",ANN·全日本新聞網NEWS
+https://tv.iill.top/youtube/@ANNnewsCH
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@NHKWORLDJAPAN&youtube&logo" group-title="新闻",NHK全球新聞NEWS
+https://tv.iill.top/youtube/@NHKWORLDJAPAN
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@CNN&youtube&logo" group-title="新闻",CNN
+https://tv.iill.top/youtube/@CNN
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@channelnewsasia&youtube&logo" group-title="新闻",CNA
+https://tv.iill.top/youtube/@channelnewsasia
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@unitednations&youtube&logo" group-title="新闻",United Nations
+https://tv.iill.top/youtube/@unitednations
