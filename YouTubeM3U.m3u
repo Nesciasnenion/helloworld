@@ -19,13 +19,14 @@ https://tv.iill.top/youtube/PNNPTS
 https://tv.iill.top/youtube/@phoenixtvglobal
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/330px-Logo_8TV_Malaysia.png" group-title="新闻",八度空间华语新闻
 https://tv.iill.top/youtube/@8tvmandarinnews
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/270px-Nippon_TV_logo_2014.svg.png" group-title="新闻",日テレ·日本電視NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/270px-Nippon_TV_logo_2014.svg.png" group-title="新闻",日テレ·日本電視
 https://tv.iill.top/youtube/@ntv_news
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/330px-ANN_logo.svg.png" group-title="新闻",ANN·全日本新聞網NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ANN_logo.svg/330px-ANN_logo.svg.png" group-title="新闻",ANN·全日本新聞網
 https://tv.iill.top/youtube/@ANNnewsCH
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/500px-NHK_logo_2020.svg.png" group-title="新闻",NHK全球新聞NEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/330px-NHK_World.svg.png" group-title="新闻",NHK·日本國際傳媒
 https://tv.iill.top/youtube/@NHKWORLDJAPAN
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@CNN&youtube&logo" group-title="新闻",CNN
 https://tv.iill.top/youtube/@CNN
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/i/@channelnewsasia&youtube&logo" group-title="新闻",CNA
 https://tv.iill.top/youtube/@channelnewsasia
+
