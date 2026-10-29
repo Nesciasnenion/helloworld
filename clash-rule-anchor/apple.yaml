@@ -1,0 +1,41 @@
+payload:
+  # 核心服务
+  - +.apple.com
+  - +.apple.com.cn
+  - +.apple.co
+  - +.icloud.com
+  - +.icloud.com.cn
+  - +.icloud-content.com
+  - +.me.com
+  - +.mac.com
+  - +.itunes.com
+  - +.appstore.com
+  - +.appsto.re
+  - +.apple.news
+  - +.applemusic.com
+
+  # CDN / 基础设施
+  - +.mzstatic.com
+  - +.cdn-apple.com
+  - +.aaplimg.com
+  - +.apple-cloudkit.com
+  - +.apple-dns.net
+  - +.apple-mapkit.com
+  - +.apple-livephotoskit.com
+  - +.apzones.com
+  - +.phicdn.net
+
+  # Apple Intelligence 中继
+  - +.apple-relay.cloudflare.com
+  - +.apple-relay.fastly-edge.com
+
+  # Akamai / Edge / akadns 别名（不在主后缀下）
+  - +.apple.com.akadns.net
+  - +.icloud.com.akadns.net
+  - +.cdn-apple.com.akadns.net
+  - +.push-apple.com.akadns.net
+  - +.sandbox-push-apple.com.akadns.net
+  - +.apps-apple.com.akadns.net
+  - +.itunes-apple.com.akadns.net
+  - +.apple.com.edgekey.net
+  - +.apple.com.edgesuite.net
